@@ -4,3 +4,4 @@ repo = "https://github.com/KeitaNakamura/KeitaNakamuraRegistry.git"
 
 [packages]
 573615e8-489b-4e48-952b-fc194aa7573b = { name = "Poingr", path = "P/Poingr" }
+f167b195-1c3d-409a-8dd6-02cc02a656c6 = { name = "GeometricObjects", path = "G/GeometricObjects" }
