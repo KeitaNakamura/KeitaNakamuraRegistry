@@ -3,3 +3,4 @@ uuid = "e90d1bfd-b7d4-478e-ac5a-e1eac89621f4"
 repo = "https://github.com/KeitaNakamura/KeitaNakamuraRegistry.git"
 
 [packages]
+573615e8-489b-4e48-952b-fc194aa7573b = { name = "Poingr", path = "P/Poingr" }
