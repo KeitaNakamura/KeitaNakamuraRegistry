@@ -3,6 +3,7 @@ uuid = "e90d1bfd-b7d4-478e-ac5a-e1eac89621f4"
 repo = "https://github.com/KeitaNakamura/KeitaNakamuraRegistry.git"
 
 [packages]
+01eb3d57-6371-4320-8e81-081701a85da1 = { name = "PoingrSimulator", path = "P/PoingrSimulator" }
 573615e8-489b-4e48-952b-fc194aa7573b = { name = "Poingr", path = "P/Poingr" }
 6f699bbf-8c85-4dbc-8fd5-f5a2312568a0 = { name = "PYMethod", path = "P/PYMethod" }
 cb5f3ba8-f211-439d-a907-3cde74a9b555 = { name = "Grapher", path = "G/Grapher" }
