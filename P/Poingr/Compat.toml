@@ -1,11 +1,13 @@
 [0]
-Coordinates = "0.2"
 ProgressMeter = "1.5.0-1"
 Reexport = "1"
 WriteVTK = "1.9.0-1"
 
 ["0-0.17.0"]
 StaticArrays = "1.1.0-1"
+
+["0-0.18.4"]
+Coordinates = "0.2"
 
 ["0-0.4"]
 julia = "1.5.0-1"
