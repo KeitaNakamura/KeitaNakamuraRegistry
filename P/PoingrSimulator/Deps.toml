@@ -12,5 +12,8 @@ DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 ["0-0.4.0"]
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 
-["0.4.1-0"]
+["0.4.1-0.5.0"]
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+
+["0.5.1-0"]
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
