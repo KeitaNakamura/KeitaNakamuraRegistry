@@ -1,0 +1,3 @@
+name = "GmshReader"
+uuid = "bf82f66e-8fcd-4ce9-a12d-a25ca77d3b00"
+repo = "https://github.com/KeitaNakamura/GmshReader.jl.git"
