@@ -1,0 +1,8 @@
+[0]
+GmshReader = "0.2"
+MappedArrays = "0.4"
+Reexport = "1"
+StaticArrays = "1"
+StructArrays = "0.6"
+Tensorial = "0.12"
+julia = "1.7.0-1"
