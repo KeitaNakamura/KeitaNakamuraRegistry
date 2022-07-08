@@ -6,3 +6,6 @@ StaticArrays = "1"
 StructArrays = "0.6"
 Tensorial = "0.12"
 julia = "1.7.0-1"
+
+["0.2-0"]
+WriteVTK = "1.14.0-1"
