@@ -4,6 +4,7 @@ repo = "https://github.com/KeitaNakamura/KeitaNakamuraRegistry.git"
 
 [packages]
 01eb3d57-6371-4320-8e81-081701a85da1 = { name = "PoingrSimulator", path = "P/PoingrSimulator" }
+17ed53b9-17a0-4985-8cf6-3beb52540041 = { name = "TOMLX", path = "T/TOMLX" }
 573615e8-489b-4e48-952b-fc194aa7573b = { name = "Poingr", path = "P/Poingr" }
 6f699bbf-8c85-4dbc-8fd5-f5a2312568a0 = { name = "PYMethod", path = "P/PYMethod" }
 8a6dffb5-f0a3-43b0-807d-ee99672b66b8 = { name = "Femto", path = "F/Femto" }
