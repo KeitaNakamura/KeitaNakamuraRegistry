@@ -21,16 +21,21 @@ Poingr = "0.20-0.21"
 
 ["0.12-0"]
 MaterialModels = "0.6"
-StructArrays = "0.6"
 
 ["0.12-0.13.0"]
 Poingr = "0.22"
+
+["0.12-0.14.3"]
+StructArrays = "0.6"
 
 ["0.13.1-0"]
 Poingr = "0.23"
 
 ["0.13.2-0"]
 GeometricObjects = "0.6"
+
+["0.14.4-0"]
+StructArrays = "0.0.0-0.6.12"
 
 ["0.2"]
 Poingr = "0.17"
