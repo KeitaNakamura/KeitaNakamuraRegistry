@@ -12,6 +12,9 @@ GmshReader = "0.2"
 ["0.11.2-0"]
 GmshReader = "0.3"
 
+["0.11.4-0"]
+SnoopPrecompile = "1"
+
 ["0.2-0"]
 WriteVTK = "1.14.0-1"
 
