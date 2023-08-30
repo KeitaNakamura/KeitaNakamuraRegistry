@@ -7,6 +7,7 @@ repo = "https://github.com/KeitaNakamura/KeitaNakamuraRegistry.git"
 17ed53b9-17a0-4985-8cf6-3beb52540041 = { name = "TOMLX", path = "T/TOMLX" }
 573615e8-489b-4e48-952b-fc194aa7573b = { name = "Poingr", path = "P/Poingr" }
 6f699bbf-8c85-4dbc-8fd5-f5a2312568a0 = { name = "PYMethod", path = "P/PYMethod" }
+74a0572f-1e79-4fab-a8d4-5355cc1fb79b = { name = "PileWave", path = "P/PileWave" }
 8a6dffb5-f0a3-43b0-807d-ee99672b66b8 = { name = "Femto", path = "F/Femto" }
 8a8a7a0b-5081-41d5-b488-cbbf872f9543 = { name = "Marble", path = "M/Marble" }
 a0ac6bce-1bd0-42b8-b3eb-ef979c8333b5 = { name = "MarbleRun", path = "M/MarbleRun" }
