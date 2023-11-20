@@ -11,6 +11,9 @@ Tensorial = "98f94333-fa9f-48a9-ad80-1c66397b2b38"
 ["0.11.3-0"]
 SnoopPrecompile = "66db9d55-30c0-4569-8b51-7e840670fc0c"
 
+["0.12-0"]
+NewtonSolvers = "08c6405b-2d9a-475f-9b5b-02ac0aab7e31"
+
 ["0.2-0"]
 WriteVTK = "64499a7a-5c06-52f2-abe2-ccb03c286192"
 
