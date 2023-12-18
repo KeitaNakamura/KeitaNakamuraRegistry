@@ -3,6 +3,7 @@ uuid = "e90d1bfd-b7d4-478e-ac5a-e1eac89621f4"
 repo = "https://github.com/KeitaNakamura/KeitaNakamuraRegistry.git"
 
 [packages]
+00f68d47-f248-4f51-b82e-d445770b1b0e = { name = "LevelSetObjects", path = "L/LevelSetObjects" }
 01eb3d57-6371-4320-8e81-081701a85da1 = { name = "PoingrSimulator", path = "P/PoingrSimulator" }
 08c6405b-2d9a-475f-9b5b-02ac0aab7e31 = { name = "NewtonSolvers", path = "N/NewtonSolvers" }
 17ed53b9-17a0-4985-8cf6-3beb52540041 = { name = "TOMLX", path = "T/TOMLX" }
