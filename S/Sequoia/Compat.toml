@@ -8,4 +8,9 @@ SparseArrays = "1"
 StructArrays = "0.6"
 Tensorial = "0.14"
 WriteVTK = "1.18.0-1"
+
+["0-0.1"]
+julia = "1.7.0-1"
+
+["0.3-0"]
 julia = "1.9.0-1"
