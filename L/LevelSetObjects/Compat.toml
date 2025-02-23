@@ -4,13 +4,20 @@ GeometryBasics = "0.4"
 Interpolations = "0.15"
 LinearAlgebra = "1"
 MeshIO = "0.4"
-ProgressMeter = "1.9.0-1"
 StaticArrays = "1"
+
+["0 - 0.1"]
+ProgressMeter = "1.9.0-1"
 WriteVTK = "1.18.0-1"
 julia = "1.9.0-1"
 
-["0-0.1.0"]
+["0 - 0.1.0"]
 PointToTriangle = "0.1"
 
-["0.1.1-0"]
+["0.1.1 - 0"]
 PointToTriangle = "0.2"
+
+["0.2 - 0"]
+ProgressMeter = "1.9.0 - 1"
+WriteVTK = "1.18.0 - 1"
+julia = "1.9.0 - 1"
