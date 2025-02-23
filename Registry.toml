@@ -4,19 +4,7 @@ repo = "https://github.com/KeitaNakamura/KeitaNakamuraRegistry.git"
 
 [packages]
 00f68d47-f248-4f51-b82e-d445770b1b0e = { name = "LevelSetObjects", path = "L/LevelSetObjects" }
-01eb3d57-6371-4320-8e81-081701a85da1 = { name = "PoingrSimulator", path = "P/PoingrSimulator" }
-08c6405b-2d9a-475f-9b5b-02ac0aab7e31 = { name = "NewtonSolvers", path = "N/NewtonSolvers" }
-17ed53b9-17a0-4985-8cf6-3beb52540041 = { name = "TOMLX", path = "T/TOMLX" }
-30a04e26-4a89-4862-aa00-4d71e820c402 = { name = "Sequoia", path = "S/Sequoia" }
-573615e8-489b-4e48-952b-fc194aa7573b = { name = "Poingr", path = "P/Poingr" }
-6f699bbf-8c85-4dbc-8fd5-f5a2312568a0 = { name = "PYMethod", path = "P/PYMethod" }
-74a0572f-1e79-4fab-a8d4-5355cc1fb79b = { name = "PileWave", path = "P/PileWave" }
 87696978-e20b-44cd-8068-02da328946c2 = { name = "PointToTriangle", path = "P/PointToTriangle" }
 8a6dffb5-f0a3-43b0-807d-ee99672b66b8 = { name = "Femto", path = "F/Femto" }
-8a8a7a0b-5081-41d5-b488-cbbf872f9543 = { name = "Marble", path = "M/Marble" }
-a0ac6bce-1bd0-42b8-b3eb-ef979c8333b5 = { name = "MarbleRun", path = "M/MarbleRun" }
-a94b3f18-6cb1-4ab4-af29-8dac6ebab634 = { name = "MaterialModels", path = "M/MaterialModels" }
-ad004015-217e-4e1b-bc46-a8171541e4a1 = { name = "PilePenetration", path = "P/PilePenetration" }
 bf82f66e-8fcd-4ce9-a12d-a25ca77d3b00 = { name = "GmshReader", path = "G/GmshReader" }
 cb5f3ba8-f211-439d-a907-3cde74a9b555 = { name = "Grapher", path = "G/Grapher" }
-f167b195-1c3d-409a-8dd6-02cc02a656c6 = { name = "GeometricObjects", path = "G/GeometricObjects" }
