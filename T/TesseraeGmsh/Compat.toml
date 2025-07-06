@@ -1,0 +1,4 @@
+[0]
+StaticArrays = "1"
+Tesserae = "0.2.16 - 0.3"
+gmsh_jll = "4.13.0 - 4"
